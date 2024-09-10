@@ -31,3 +31,5 @@ The following table lists the VPS packages available for pre-sale in Japan, with
 ## WebHorizon Reviews
 
 WebHorizon is noted for its cutting-edge hardware and robust network infrastructure, offering significant capabilities particularly in the Asia-Pacific region. Their promotional offers and commitment to high performance at competitive prices make them a favored choice for businesses and tech enthusiasts seeking efficient VPS solutions.
+
+LI WEN
